@@ -8,7 +8,7 @@ This project is a Power BI dashboard that displays the Air Quality Index (AQI) d
 <h3>Data Analyzed</h3>
 The data analyzed in this dashboard includes several key air quality components, such as:
 
-PM2.5: Particulate matter smaller than 2.5 microns, which can penetrate deeply into the lungs and affect respiratory and cardiovascular health.
+PM2.5: Particulate matter smaller than 2.5 microns, which can penetrate deeply into the lungs and affect respiratory and cardiovascular health.    
 PM10: Particulate matter smaller than 10 microns, associated with respiratory ailments and reduced air visibility.
 SO₂: Sulfur dioxide, a gas that can irritate the respiratory system and contribute to the formation of particulate matter.
 NO₂: Nitrogen dioxide, a pollutant that can affect lung function and lead to respiratory symptoms.
@@ -20,5 +20,5 @@ Historical Data Trends: Analyze the trends in AQI and pollutant levels over time
 Component-wise Insights: Examine the contributions of different pollutants (PM2.5, PM10, SO₂, NO₂, CO, O₃) to the overall AQI.
 Interactive Filtering: Users can filter data by region, time, and pollutant type for specific insights.
 Technologies Used
-Power BI: For building interactive visualizations and data modeling.
-Data Sources: The data sources include open-source repositories and governmental datasets on air quality across Indian regions.
+<h4>Power BI</h4> For building interactive visualizations and data modeling.
+<h4>Data Sources </h4> The data sources include open-source repositories and governmental datasets on air quality across Indian regions.
